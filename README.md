@@ -31,3 +31,7 @@ It provides deep insights into sales performance, customer behavior, and product
 1. **Download** the `.pbix` file from this repo.
 2. **Open** the file using Power BI Desktop.
 3. You can explore the visuals, apply filters, or **connect your own dataset**.
+
+
+![Screenshot (40)](https://github.com/user-attachments/assets/6e219a92-ce21-4c17-aceb-c51dbb5e705f)
+
